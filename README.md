@@ -2,80 +2,150 @@
 <h3 align="center">AI/DS Focused | Frontend Driven</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Data+Science+Student;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Data+Science+Student;Creator+of+ImgSeek;" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
 </p>
 
-## 🚀 About Me
+---
 
-My name is Aaditya Srinivasan, and I'm an AI and Data Science student.
-
-- B.Tech Student at SRM Madurai College of Engineering and Technology
-- Aspiring AI/DS Engineer
-- Frontend Development
-- Currently learning advanced Frontend Systems & Data Science
-- Currently building: ImgSeek
-- Goal: Build intelligent, user-first applications
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top" width="50%" style="padding-right: 15px;">
+      
+      ## 🚀 About Me
+      
+      My name is Aaditya Srinivasan, and I'm an AI and Data Science student. I build intelligent, user-first applications combining advanced frontend systems with data-driven technologies.
+      
+      * 🎓 **B.Tech Student** at SRM Madurai College of Engineering and Technology
+      * 🧠 **Aspiring AI/DS Engineer**
+      * 🎨 **Frontend Development Enthusiast**
+      * ⚡ **Currently building:** ImgSeek, a high-performance Windows OCR search utility
+      * 🎯 **Goal:** Bridge the gap between robust AI models and beautiful, responsive UI
+      
+      ---
+      
+      ## 🛠️ Tech Stack
+      
+      ### 💻 Languages
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </p>
+      
+      ### ⚙️ Backend, Frameworks & Libraries
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+      </p>
+      
+      ### 🗄️ Databases & Core Tools
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      </p>
+      
+      ---
+      
+      ## 📊 GitHub Analytics
+      
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aaditya079&show_icons=true&theme=react&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya079&layout=compact&theme=react&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+      </p>
+      
+    </td>
+    
+    <!-- RIGHT COLUMN -->
+    <td valign="top" width="50%" style="padding-left: 15px;">
+      
+      ## ⭐ Featured Project
+      
+      <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+            <h3 align="center">🔍 <b>ImgSeek</b></h3>
+            <p align="center"><i>High-Performance Offline Text Finder for Local Images</i></p>
+            <p>A native Windows utility that scans image folders using high-speed hardware OCR to instantly search for receipt text, screenshot keywords, or scanned documents.</p>
+            <ul>
+              <li>⚡ <b>100% Local OCR:</b> Powered by native <code>Windows.Media.Ocr</code>. Completely private, offline, with zero external API calls.</li>
+              <li>🎨 <b>Sleek Dark GUI:</b> Browse, monitor scanning live, and filter matches in real time.</li>
+              <li>📁 <b>Gallery Export:</b> Export matches into an interactive HTML gallery with an image lightbox.</li>
+              <li>📦 <b>Portable Executable:</b> Self-contained single-file utility with zero runtime installation required.</li>
+            </ul>
+            <div align="center">
+              <a href="https://github.com/aaditya079/ImgSeek/releases/latest">
+                <img src="https://img.shields.io/badge/Download-ImgSeek.exe-007acc?style=for-the-badge&logo=windows&logoColor=white"/>
+              </a>
+              <a href="https://github.com/aaditya079/ImgSeek">
+                <img src="https://img.shields.io/badge/Code-ImgSeek-181717?style=for-the-badge&logo=github&logoColor=white"/>
+              </a>
+            </div>
+          </td>
+        </tr>
+      </table>
+      
+      ---
+      
+      ## 📊 Contribution Activity
+      
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya079&theme=react-dark&hide_border=true" width="100%">
+      </p>
+      
+      ---
+      
+      ## 🛣️ 2026 Roadmap & Milestones
+      
+      * 🔵 **Full Stack Systems**  
+        `[████████░░ 80%]`
+      * 🟢 **Data Structures & Algorithms**  
+        `[██████░░░░ 60%]`
+      * 🟡 **Advanced Data Science & ML**  
+        `[████░░░░░░ 40%]`
+      * 🔴 **Deep Learning & Artificial Intelligence**  
+        `[██░░░░░░░░ 20%]`
+      
+      ---
+      
+      ## ⏳ Year Progress (2026)
+      <p>
+        <img src="https://img.shields.io/badge/Days%20Left-217-00f7ff?style=for-the-badge&logo=calendar&logoColor=white"/>
+      </p>
+      
+      ---
+      
+      ## 🔗 Connect With Me
+      
+      <p align="center">
+        <a href="mailto:aadityasrinivasan079@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-aadityasrinivasan079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        </a>
+      </p>
+      
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
+  <h3>✨ <i>"Reze ma Queen 🥀"</i></h3>
+</div>
 
-<p align="left">
-  <a href="mailto:aadityasrinivasan079@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## ⏳ 2026 Countdown
-<p><img src="https://img.shields.io/badge/Days%20Left%20in%202026-225-blue?style=for-the-badge"></p>
-
----
-
-## 📊 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya079&theme=react-dark&hide_border=true">
-</p>
-
----
-
-## 🐞 Tech Stack
-
-### 💻 Languages
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-
-### ⚙️ Backend & Frameworks
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
-
-### 🗄️ Databases
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-
-### 🎨 Frontend & Tools
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-
----
-
-## 🛣️ 2026 Roadmap
-- ⏳ Full Stack Development
-- ⏳ Polishing Data Structures and Algorithms
-- ⏳ Advanced Machine Learning
-- ⏳ Artificial Intelligence & Deep Learning
-
----
-
-> Reze ma Queen 🥀
 
 
