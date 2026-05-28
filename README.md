@@ -52,10 +52,10 @@
 <hr/>
 <h2>📊 GitHub Analytics</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaditya079&show_icons=true&theme=react&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api?username=aaditya079&show_icons=true&theme=react&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaditya079&layout=compact&theme=react&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aaditya079&layout=compact&theme=react&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
 </p>
 </td>
 <td valign="top" width="50%" style="padding-left: 15px;">
