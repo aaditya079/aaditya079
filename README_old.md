@@ -1,28 +1,18 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aaditya Srinivasan K S</h1>
+<h3 align="center">AI/DS Focused | Frontend Driven</h3>
 
-<!-- Hero Section: Animated terminal aesthetic -->
-<h3><code>aaditya079@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Aaditya's GitHub contribution graph — auto-refreshed daily" />
-
-<br><br>
-
-<h3><code>aaditya079@github ~ $ whoami</code></h3>
-
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top" style="border: none; padding: 0;"><img src="./aadi-ascii.svg" width="370" alt="Aaditya Srinivasan — ASCII portrait" /></td>
-    <td valign="top" style="border: none; padding: 0; padding-left: 10px;"><img src="./info-card.svg" width="490" alt="Aaditya Srinivasan — neofetch card" /></td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=680&lines=Frontend+Developer;AI+%26+Data+Science+Student;" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500"/>
+</p>
 
 <hr/>
 
 ## 🚀 About Me
 
-My name is **Aaditya Srinivasan K S**, and I'm an AI and Data Science student. I build intelligent, user-first applications combining advanced frontend systems with data-driven technologies.
+My name is Aaditya Srinivasan, and I'm an AI and Data Science student. I build intelligent, user-first applications combining advanced frontend systems with data-driven technologies.
 
 <ul>
   <li>🎓 <b>B.Tech Student</b> at SRM Madurai College of Engineering and Technology</li>
@@ -100,22 +90,62 @@ My name is **Aaditya Srinivasan K S**, and I'm an AI and Data Science student. I
 
 <hr/>
 
+## 📊 GitHub Analytics
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api?username=aaditya079&show_icons=true&theme=react&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=aaditya079&layout=compact&theme=react&hide_border=true&title_color=00F7FF&text_color=ffffff&bg_color=0D1117" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
 ## 📊 Contribution Activity
 
-The live heatmap at the top of my profile is updated automatically every day using GitHub Actions.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaditya079&theme=react-dark&hide_border=true" width="100%">
+</p>
+
+<hr/>
+
+## 🛣️ 2026 Roadmap & Milestones
+
+<ul>
+  <li><b>🔵 Full Stack Systems</b> <code>[████████░░ 80%]</code></li>
+  <li><b>🟢 Data Structures & Algorithms</b> <code>[██████░░░░ 60%]</code></li>
+  <li><b>🟡 Advanced Data Science & ML</b> <code>[████░░░░░░ 40%]</code></li>
+  <li><b>🔴 Deep Learning & Artificial Intelligence</b> <code>[██░░░░░░░░ 20%]</code></li>
+</ul>
+
+<hr/>
+
+## ⏳ Year Progress (2026)
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20Left-217-00f7ff?style=for-the-badge&logo=calendar&logoColor=white"/>
+</p>
 
 <hr/>
 
 ## 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
   <a href="mailto:aadityasrinivasan079@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-aadityasrinivasan079@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+</p>
 
 <hr/>
 
 <div align="center">
   <h3>✨ <i>"Reze ma Queen 🥀"</i></h3>
 </div>
+
+
+
+
+
