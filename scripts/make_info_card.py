@@ -53,7 +53,7 @@ ROWS = [
     ("bul", "REZE_OS — Interactive Developer Portfolio"),
     ("bul", "NEURALIS — Multi-Agent Developer Console"),
     ("bul", "BitChord-PC — Native Rust Audio Engine"),
-    ("bul", "Reze ma Queen 🥀"),
+    ("bul", "airi — Open-Source AI Companion Contributor"),
 ]
 
 

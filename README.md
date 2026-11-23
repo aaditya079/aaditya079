@@ -86,8 +86,8 @@ My name is **Aaditya Srinivasan K S**, an AI & Data Science engineer and systems
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧸 <a href="https://github.com/aaditya079/Desktop-Companion">Desktop Companion</a></h4>
-      <p>Interactive borderless desktop companion built with <b>Godot 4</b> and Live2D Cubism (<code>gd_cubism</code>), featuring transparent viewport rendering and model interactions.</p>
+      <h4>🧸 <a href="https://github.com/aaditya079/airi">airi (Contributor)</a></h4>
+      <p>Self-hosted cyber living companion with real-time voice chat and game playing. Open-source contributor to <a href="https://github.com/moeru-ai/airi">moeru-ai/airi</a>.</p>
     </td>
     <td width="50%" valign="top">
       <h4>🔍 <a href="https://github.com/aaditya079/ImgSeek">ImgSeek</a></h4>
