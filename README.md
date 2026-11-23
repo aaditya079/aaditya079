@@ -16,6 +16,16 @@
   </tr>
 </table>
 
+<br/>
+
+<a href="https://aaditya079.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/⚡_Live_Portfolio-REZE__OS-ff5277?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+</a>
+&nbsp;
+<a href="https://aaditya079.github.io/NEURALIS/">
+  <img src="https://img.shields.io/badge/🌐_Flagship_Console-NEURALIS-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="NEURALIS Demo" />
+</a>
+
 </div>
 
 <hr/>
@@ -26,6 +36,7 @@ My name is **Aaditya Srinivasan K S**, an AI & Data Science engineer and systems
 
 <ul>
   <li>🎓 <b>B.Tech Student</b> in Artificial Intelligence & Data Science at SRM MDU</li>
+  <li>🌐 <b>Portfolio:</b> <a href="https://aaditya079.github.io/portfolio/"><b>aaditya079.github.io/portfolio</b></a> (REZE_OS)</li>
   <li>🧠 <b>Core Focus:</b> Multi-Agent LLM Orchestration, Autonomous Workflows & Systems Architecture</li>
   <li>⚡ <b>Currently Building:</b> <a href="https://github.com/aaditya079/NEURALIS"><b>NEURALIS</b></a> (browser-native multi-agent dev console) & <a href="https://github.com/aaditya079/BitChord-PC"><b>BitChord-PC</b></a> (native Rust audio engine)</li>
   <li>🎯 <b>Goal:</b> Engineer resilient, lightweight systems bridging autonomous AI models with polished native UIs</li>
@@ -65,22 +76,22 @@ My name is **Aaditya Srinivasan K S**, an AI & Data Science engineer and systems
 <table border="0" cellpadding="8" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🦀 <a href="https://github.com/aaditya079/BitChord-PC">BitChord PC</a></h4>
-      <p>Blazing-fast native YouTube Music desktop client engineered in <b>Rust</b> and <b>egui</b> with rodio audio. Zero Electron, zero webview bloat, lightweight memory footprint.</p>
+      <h4>⚡ <a href="https://github.com/aaditya079/portfolio">REZE_OS (Portfolio)</a></h4>
+      <p>Cyberpunk/anime-inspired developer portfolio featuring dual ambient video modes (Café / Bomb Devil), integrated audio streaming, and systems showcase. Built with vanilla web technologies.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧸 <a href="https://github.com/aaditya079/Desktop-Companion">Desktop Companion</a></h4>
-      <p>Interactive borderless desktop companion built with <b>Godot 4</b> and Live2D Cubism (<code>gd_cubism</code>), featuring transparent viewport rendering and model interactions.</p>
+      <h4>🦀 <a href="https://github.com/aaditya079/BitChord-PC">BitChord PC</a></h4>
+      <p>Blazing-fast native YouTube Music desktop client engineered in <b>Rust</b> and <b>egui</b> with rodio audio. Zero Electron, zero webview bloat, lightweight memory footprint.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/aaditya079/ImgSeek">ImgSeek</a></h4>
-      <p>High-performance Windows utility powered by native <code>Windows.Media.Ocr</code> for instant offline search across image libraries and screenshots.</p>
+      <h4>🧸 <a href="https://github.com/aaditya079/Desktop-Companion">Desktop Companion</a></h4>
+      <p>Interactive borderless desktop companion built with <b>Godot 4</b> and Live2D Cubism (<code>gd_cubism</code>), featuring transparent viewport rendering and model interactions.</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏫 <a href="https://github.com/aaditya079/Vibecraft">Vibecraft</a></h4>
-      <p>Smart attendance margin simulator and timetable room finder tailored for student workflow and campus scheduling. Deployed on Vercel.</p>
+      <h4>🔍 <a href="https://github.com/aaditya079/ImgSeek">ImgSeek</a></h4>
+      <p>High-performance Windows utility powered by native <code>Windows.Media.Ocr</code> for instant offline search across image libraries and screenshots.</p>
     </td>
   </tr>
 </table>
@@ -141,6 +152,10 @@ The live contribution heatmap at the top of this profile is synced automatically
 ## 🔗 Connect With Me
 
 <div align="center">
+  <a href="https://aaditya079.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-REZE__OS-ff5277?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="https://aaditya079.github.io/NEURALIS/">
     <img src="https://img.shields.io/badge/Console-NEURALIS_Demo-181717?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>

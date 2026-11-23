@@ -40,8 +40,8 @@ ACCENT = "#22d3ee"
 ROWS = [
     ("host",),
     ("kv", "Now", "AI & Data Science Student @ SRM MDU"),
+    ("kv", "Portfolio", "aaditya079.github.io/portfolio"),
     ("kv", "Building", "NEURALIS (Multi-Agent Dev Console)"),
-    ("kv", "Goal", "Autonomous Systems & Native Desktop Apps"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Languages", "Rust, Python, TypeScript, C#, GDScript"),
@@ -50,9 +50,9 @@ ROWS = [
     ("kv", "Tools", "Git, Docker, PostgreSQL, Supabase"),
     ("gap",),
     ("sec", "Highlights"),
+    ("bul", "REZE_OS — Interactive Developer Portfolio"),
     ("bul", "NEURALIS — Multi-Agent Developer Console"),
     ("bul", "BitChord-PC — Native Rust Audio Engine"),
-    ("bul", "Desktop-Companion — Godot 4 Live2D Mate"),
     ("bul", "Reze ma Queen 🥀"),
 ]
 
